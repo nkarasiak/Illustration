@@ -1,5 +1,5 @@
 # Lego man for Javascript
-I found some really nices illustration with lego for HTML and CSS, but Javascript was missing.
+I found some really nice illustrations with lego for HTML and CSS, but Javascript was missing.
 
 So here is my contribution, I just found/created a new friend for HTML and CSS lego man :
 
